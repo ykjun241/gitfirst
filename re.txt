@@ -1,8 +1,3 @@
 edit branch dev
 fd:wq
 a
-<<<<<<< HEAD
-bugg
-=======
-bug
->>>>>>> e1efd6e... dev fix
